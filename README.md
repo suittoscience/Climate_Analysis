@@ -1,2 +1,2 @@
-# Climate_Analysis_HW
-HW Assignment 8 (SQLAlchemy/Matplotlib)
+# Climate_Analysis
+Assignment 8 (SQLAlchemy/Matplotlib)
